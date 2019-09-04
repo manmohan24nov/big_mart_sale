@@ -1,0 +1,10 @@
+
+
+hypothesis
+1.item_fat_content sales is negatively correlated to sales
+
+feature engineering
+1.You could create a new ordinal feature called Part_Of_Day with 4 values Morning, Midday, Afternoon, Night with
+whatever hour boundaries you think are relevant. This might be useful for a decision tree.
+
+You can use similar approaches to pick out time of week relationships, time of month relationships and various structures of seasonality across a year.
